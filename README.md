@@ -1,3 +1,26 @@
+## ros2_control_cmake (jazzy) - 0.3.0-1
+
+The packages in the `ros2_control_cmake` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy ros2_control_cmake` on `Thu, 02 Oct 2025 08:50:23 -0000`
+
+The `ros2_control_cmake` package was released.
+
+Version of package(s) in repository `ros2_control_cmake`:
+
+- upstream repository: https://github.com/ros-controls/ros2_control_cmake.git
+- release repository: https://github.com/ros2-gbp/ros2_control_cmake-release.git
+- rosdistro version: `0.2.1-1`
+- old version: `0.2.1-1`
+- new version: `0.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## ros2_control_cmake (humble) - 0.2.1-1
 
 The packages in the `ros2_control_cmake` repository were released into the `humble` distro by running `/usr/bin/bloom-release --ros-distro humble --new-track ros2_control_cmake` on `Thu, 24 Jul 2025 08:50:09 -0000`
