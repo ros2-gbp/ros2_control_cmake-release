@@ -9,11 +9,9 @@ on:
       - '.github/workflows/jazzy-downstream-build.yml'
       - 'ros_controls.jazzy.repos'
       - 'ros2_control_cmake/**'
-    branches:
-      - jazzy
   push:
     branches:
-      - jazzy
+      - master
 
 jobs:
   stack-build:
