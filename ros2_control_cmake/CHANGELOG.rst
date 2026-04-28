@@ -2,9 +2,9 @@
 Changelog for package ros2_control_cmake
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.0.0 (2026-04-28)
+0.4.0 (2026-04-28)
 ------------------
-* Set CMAKE_CXX_STANDARD to 20 (`#28 <https://github.com/ros-controls/ros2_control_cmake/issues/28>`_)
+* Default to C++20 if available (`#30 <https://github.com/ros-controls/ros2_control_cmake/issues/30>`_)
 * Contributors: Christoph Fröhlich
 
 0.3.0 (2025-10-02)
