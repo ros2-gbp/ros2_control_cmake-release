@@ -6,7 +6,7 @@ repositories:
   control_toolbox:
     type: git
     url: https://github.com/ros-controls/control_toolbox.git
-    version: master
+    version: kilted
   gz_ros2_control:
     type: git
     url: https://github.com/ros-controls/gz_ros2_control.git
@@ -18,11 +18,11 @@ repositories:
   realtime_tools:
     type: git
     url: https://github.com/ros-controls/realtime_tools.git
-    version: master
+    version: kilted
   ros2_control:
     type: git
     url: https://github.com/ros-controls/ros2_control.git
-    version: master
+    version: kilted
   ros2_control_demos:
     type: git
     url: https://github.com/ros-controls/ros2_control_demos.git
@@ -30,7 +30,7 @@ repositories:
   ros2_controllers:
     type: git
     url: https://github.com/ros-controls/ros2_controllers.git
-    version: master
+    version: kilted
   topic_based_hardware_interfaces:
     type: git
     url: https://github.com/ros-controls/topic_based_hardware_interfaces.git
